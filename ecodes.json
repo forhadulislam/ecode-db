@@ -6,6 +6,12 @@
     "status": "Halal if pure grind turmeric powder or granular. Mushbooh if used as liquid, the solvents has to be Halal. Haraam if hidden ingredient is pork fat based emulsifier in dry mix."
   },
   {
+    "number": "E101", 
+    "name": "Riboflavin (Vitamin B2)",
+    "description": "Color",
+    "status": "Mushbooh (Haraam if from pork liver & Kidney, Halal if 100% plant material"
+  },
+  {
     "number": "", 
     "name": "",
     "description": "",
