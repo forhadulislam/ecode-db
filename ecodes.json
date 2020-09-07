@@ -22,7 +22,13 @@
     "name": "Quinoline Yellow",
     "description": "Color",
     "status": "Halal if used as 100% dry color. Mushbooh if used as liquid color, thesolvent other than water has to be Halal"
-  },  
+  },
+  {
+    "number": "E110", 
+    "name": "Sunset Yellow FCF / Orange Yellow S",
+    "description": "Color",
+    "status": "Halal if used as 100% dry color.Mushbooh if used as liquid colo"
+  },
   {
     "number": "", 
     "name": "",
