@@ -42,6 +42,18 @@
     "status": "Halal if used as 100% dry color.Mushbooh if used as liquid color, thesolvent has to be Halal"
   },
   {
+    "number": "E123", 
+    "name": "Amaranth",
+    "description": "Color",
+    "status": "Halal if used as 100% dry color.Mushbooh if used as liquid color, thesolvent has to be Halal"
+  },
+   {
+    "number": "", 
+    "name": "",
+    "description": "",
+    "status": ""
+  },
+  {
     "number": "", 
     "name": "",
     "description": "",
