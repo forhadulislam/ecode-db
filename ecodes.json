@@ -60,6 +60,12 @@
     "status": "Halal if used as 100% dry color.Mushbooh if used as liquid color, thesolvent has to be Halal"
   },
   {
+    "number": "E131", 
+    "name": "Patent Blue V",
+    "description": "Color",
+    "status": "Halal if used as 100% dry color.Mushbooh if used as liquid color, thesolvent has to be Halal"
+  },
+  {
     "number": "", 
     "name": "",
     "description": "",
