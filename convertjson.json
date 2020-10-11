@@ -1,0 +1,3495 @@
+[
+ {
+   "ecode": "",
+   "name": "",
+   "description": "",
+   "status": "",
+   "status_description": ""
+ },
+ {
+   "ecode": "Haram E Numbers",
+   "name": "",
+   "description": "",
+   "status": "",
+   "status_description": ""
+ },
+ {
+   "ecode": "E120",
+   "name": "Cochineal / Carminic Acid",
+   "description": "Color",
+   "status": "Haram",
+   "status_description": "Source :From insect Cochineal"
+ },
+ {
+   "ecode": "Musbooh E Numbers",
+   "name": "",
+   "description": "",
+   "status": "",
+   "status_description": ""
+ },
+ {
+   "ecode": "E101",
+   "name": "Riboflavin (Vitamin B2)",
+   "description": "Colour",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh (Check Animal Meat Source, Halal if 100% plant material"
+ },
+ {
+   "ecode": "E153",
+   "name": "Carbon Black / Vegetable Carbon (Charcoal)",
+   "description": "Colour",
+   "status": "MUSBOOH",
+   "status_description": "Animal or vegetable charred material"
+ },
+ {
+   "ecode": "E161g",
+   "name": "Canthaxanthin",
+   "description": "Colour",
+   "status": "MUSBOOH",
+   "status_description": "Colour Canthaxanthin is a carotene pigment of plants. Check Halal Status of Liquid chemicals and solvents"
+ },
+ {
+   "ecode": "E252",
+   "name": "Potassium Nitrate(Saltpetre)",
+   "description": "Preservative",
+   "status": "MUSBOOH",
+   "status_description": "Natural mineral; manufactured from waste animal or vegetable material"
+ },
+ {
+   "ecode": "E290",
+   "name": "Carbon Dioxide",
+   "description": "Miscellaneous",
+   "status": "MUSBOOH",
+   "status_description": "Fermentation (in production of alcohol); by-product of lime manufacture."
+ },
+ {
+   "ecode": "E334",
+   "name": "Tartaric Acid",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E335",
+   "name": "Sodium Tartrates",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E336",
+   "name": "Potassium Tartrates (Cream of Tartar)",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E337",
+   "name": "Potassium Sodium Tartrates",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E353",
+   "name": "Metataric Acid",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "MUSBOOH",
+   "status_description": "from wine or synthetic. Check source of tartaric acid."
+ },
+ {
+   "ecode": "E354",
+   "name": "Calcium Tartrate",
+   "description": "Acidity regulator",
+   "status": "MUSBOOH",
+   "status_description": "from wine or synthetic. Check source of tartaric acid."
+ },
+ {
+   "ecode": "E422",
+   "name": "Glycerol",
+   "description": "Sugar Alcohols",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, called Glycerine In Several countries , Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E430",
+   "name": "Polyoxyethane (8) Stearate",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check source Haram if Pork"
+ },
+ {
+   "ecode": "E431",
+   "name": "Polyoxyethane (40) Stearate",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Fatty Acid derivatives. Veg Sign indicates that only vegetable fat is used as a source."
+ },
+ {
+   "ecode": "E433",
+   "name": "Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E435",
+   "name": "Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E436",
+   "name": "Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E440b",
+   "name": "Amidated Pectin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Treatment of pectin with ammonia. Check that source of pectin is not from cider making."
+ },
+ {
+   "ecode": "E441",
+   "name": "Gelatine",
+   "description": "Gelling Agent",
+   "status": "MUSBOOH",
+   "status_description": "From animal skin, tendons, ligaments, & bone. Check For Pork and Other Animal Fat"
+ },
+ {
+   "ecode": "E442",
+   "name": "Emulsifier YN",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "It could be obtained either vegetable fat or animal fat. Veg Sign indicates that only vegetable fat is used as a source oil."
+ },
+ {
+   "ecode": "E445",
+   "name": "Glycerol Esters of Wood Rosin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine"
+ },
+ {
+   "ecode": "E470",
+   "name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E470b",
+   "name": "Magnesium Salts of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E471",
+   "name": "Mono-and Diglycerides of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E472",
+   "name": "Various Esters of Mono-and Diglycerides of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E472b",
+   "name": "Lactoglycerides",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E472c",
+   "name": "Citroglycerides",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E472d",
+   "name": "Tartaric acid glycerol esters",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E472e",
+   "name": "Acetyltartaric acid glycerol esters",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Fat if Soy or Plant Fat then halal if pork then Haram"
+ },
+ {
+   "ecode": "E472f",
+   "name": "Mixed Acetic & Tartaric Acid Esters of Mono & Digl",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check source of tartaric acid, glycerine, & fatty acids."
+ },
+ {
+   "ecode": "E473",
+   "name": "Sucrose Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E474",
+   "name": "Sucroglycerides",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E475",
+   "name": "Polyglycerol Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E476",
+   "name": "Polyglycerol Esters of Polycondensed Esters of Caster Oil",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E477",
+   "name": "Propane-1,2-Diol Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E478",
+   "name": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E479b",
+   "name": "Thermally oxidized Soya Bean Oil interacted with M",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Check source of fatty acids & glycerine"
+ },
+ {
+   "ecode": "E481",
+   "name": "Sodium Stearoyl-2-Lactylate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E482",
+   "name": "Calcium Stearoyl-2-Lactylate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E483",
+   "name": "Stearyl Tartrate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E491",
+   "name": "Sorbitan Monostearate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E492",
+   "name": "Sorbitan Tristearate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E494",
+   "name": "Sorbitan Mono-oleate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haram if it is from pork fat"
+ },
+ {
+   "ecode": "E496",
+   "name": "Sorbitan",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Salts or Esters of Fatty Acids. Suitable for vegetarian label indicates that only vegetable fat is used as a source"
+ },
+ {
+   "ecode": "E542",
+   "name": "Edible Bone Phosphate (Bone-Meal)",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "MUSBOOH",
+   "status_description": "Halal if the bones from zabiha slaughtered beef."
+ },
+ {
+   "ecode": "E570",
+   "name": "Stearic Acid",
+   "description": "Miscellaneous - other compounds",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh,.Check Source of Fat if Soy or Plant Fat then halal if pork then Haram"
+ },
+ {
+   "ecode": "E572",
+   "name": "Magnesium Stearate",
+   "description": "Miscellaneous - other compounds",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh.Check Source of Fat if Soy or Plant Fat then halal if pork then Haram"
+ },
+ {
+   "ecode": "E630",
+   "name": "Inosinic Acid",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Inosinic acid is obtained from it then it is Halal otherwise it is not Halal"
+ },
+ {
+   "ecode": "E631",
+   "name": "Sodium 5-Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "A flavour Enhancer It is meat extract or from dried sardines or microbiological fermentation."
+ },
+ {
+   "ecode": "E632",
+   "name": "Sodium 5-Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "A flavour enhancer, IMP or inosine monophosphate is a nucleotide commercially obtained from Torula Yeast. Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Inosinic acid is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E633",
+   "name": "Calcium Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Sodium Inosinate is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E634",
+   "name": "Calcium 5-ribonucleotides",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Calcium5-Ribonucleotide is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E635",
+   "name": "Sodium5-Ribonucleotide",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, it is a combination of E N 627 and EN 631"
+ },
+ {
+   "ecode": "E640",
+   "name": "Glycine & its Sodium Salt",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Glycin how is obtained"
+ },
+ {
+   "ecode": "E910",
+   "name": "L-Cysteine",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: Human hair; feathers; or synthetic"
+ },
+ {
+   "ecode": "E915",
+   "name": "Esters of Colophony",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "MUSBOOH",
+   "status_description": "Check source of these fats"
+ },
+ {
+   "ecode": "E920",
+   "name": "L-Cysteine Hydrochloride",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: animal or human hair; chicken feathers; or synthetic."
+ },
+ {
+   "ecode": "E921",
+   "name": "L-Cystine",
+   "description": "Improving agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: Human hair; feathers; or synthetic"
+ },
+ {
+   "ecode": "E1000",
+   "name": "Cholic Acid",
+   "description": "Emulsifier",
+   "status": "MUSBOOH",
+   "status_description": "Musbooh"
+ },
+ {
+   "ecode": "E1101",
+   "name": "Protease",
+   "description": "Stablizer",
+   "status": "MUSBOOH",
+   "status_description": "Can by obtained from animal or plant. A Green Dot on the package of food product in India indicate it is from plant"
+ },
+ {
+   "ecode": "E1405",
+   "name": "Enzyme Treated Starch",
+   "description": "Starch",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1410",
+   "name": "Phosphate",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1412",
+   "name": "Distarch Phosphate",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1423",
+   "name": "Acetylated Distarch Glycerol",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1430",
+   "name": "Distarch Glycerine",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1441",
+   "name": "Hydroxy Propyl Distarch Glycerine",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1443",
+   "name": "Hydroxy Propyl Starch Glycerol",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1510",
+   "name": "Ethanol",
+   "description": "Additional Chemical",
+   "status": "MUSBOOH",
+   "status_description": "Chemical synthesis. Synthetic product is accepted as a carrier in quantities less than 0.5%"
+ },
+ {
+   "ecode": "E1517",
+   "name": "Diacetate",
+   "description": "Flavour Solvent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of Glyceryl"
+ },
+ {
+   "ecode": "E1518",
+   "name": "Glyceryl Triacetate",
+   "description": "Flavour Solvent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of Glyceryl"
+ },
+ {
+   "ecode": "All E Numbers",
+   "name": "",
+   "description": "",
+   "status": "",
+   "status_description": ""
+ },
+ {
+   "ecode": "E100",
+   "name": "Curcumin/Turmeric",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if pure grind turmeric powder or granular. Mushbooh if used as liquid, the solvents has to be Halal. Haram if hidden ingredient is pork fat based emulsifier in dry mix."
+ },
+ {
+   "ecode": "E101",
+   "name": "Riboflavin (Vitamin B2)",
+   "description": "Color",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh (Haraam if from pork liver & Kidney, Halal if 100% plant material"
+ },
+ {
+   "ecode": "E101(a)",
+   "name": "Riboflavin-5'-phosphate",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E102",
+   "name": "Tartrazine",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+ },
+ {
+   "ecode": "E103",
+   "name": "Chrysoine Resorcinol",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E104",
+   "name": "Quinoline Yellow",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E105",
+   "name": "Fast Yellow AB",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E106",
+   "name": "Riboflavin-5-sodium Phosphate",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E107",
+   "name": "Yellow 2G",
+   "description": "Colors",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E110",
+   "name": "Sunset Yellow FCF / Orange Yellow S",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E111",
+   "name": "Orange GGN",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E120",
+   "name": "Cochineal / Carminic Acid",
+   "description": "Color",
+   "status": "Haram",
+   "status_description": "Source :From insect Cochineal"
+ },
+ {
+   "ecode": "E122",
+   "name": "Carmoisine / Azorubine",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E123",
+   "name": "Amaranth",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E124",
+   "name": "Ponceau 4R / Cochineal Red A",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E125",
+   "name": "Ponceau SX",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E126",
+   "name": "Ponceau 6R",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E127",
+   "name": "Erythrosine BS",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E128",
+   "name": "Red 2G",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E129",
+   "name": "Allura Red AC",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E130",
+   "name": "Indanthrene Blue RS",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E131",
+   "name": "Patent Blue V",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E132",
+   "name": "Indigo Carmine / Idigotine",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if use as is as a 100% synthetic color.Check Halal Status of glycerin"
+ },
+ {
+   "ecode": "E133",
+   "name": "Brilliant Blue FCF",
+   "description": "Colors",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E140",
+   "name": "Chlorophyll",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if use 100% powder .Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E141",
+   "name": "Copper Complex of Chlorophyll",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if use 100% powder .Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E142",
+   "name": "Green S / Acid Brilliant Green BS",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E143",
+   "name": "Fast Green FCF",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E150",
+   "name": "Caramel Color/with chemicals",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E150a",
+   "name": "Plain caramel",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E150b",
+   "name": "Caustic sulphite caramel",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E150c",
+   "name": "Ammonia caramel",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E150d",
+   "name": "Sulphite ammonia caramel",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E151",
+   "name": "Black PN / Brilliant Black BN",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E152",
+   "name": "Carbon black (hydrocarbon)",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E153",
+   "name": "Carbon Black / Vegetable Carbon (Charcoal)",
+   "description": "Color",
+   "status": "MUSBOOH",
+   "status_description": "Animal or vegetable charred material"
+ },
+ {
+   "ecode": "E154",
+   "name": "Brown FK",
+   "description": "Colors",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E155",
+   "name": "Brown HT",
+   "description": "Colors",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E160a",
+   "name": "Alpha, Beta, Gamma",
+   "description": "Color - Carotene",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E160b",
+   "name": "Annatto, Bixin, Norbixin",
+   "description": "Color - Carotene",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E160c",
+   "name": "Capsanthin / Capsorbin",
+   "description": "Color- Carotene",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E160d",
+   "name": "Lycopene",
+   "description": "Color - Carotene",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E160e",
+   "name": "Beta-apo-8-carotenal",
+   "description": "Color - Carotene",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry powder or granular or Halal if Veg Sign is shown Haraam if pork gelatin is used as hidden ingredient or carrier"
+ },
+ {
+   "ecode": "E160f",
+   "name": "Ethyl ester of Beta-apo-8-cartonoic acid",
+   "description": "Color - Carotene",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry powder or granular or Halal if Veg Sign is shown Haraam if pork gelatin is used as hidden ingredient or carrier"
+ },
+ {
+   "ecode": "E161a",
+   "name": "Flavoxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E161b",
+   "name": "Lutein",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry powder or granular.Check Halal Status of Gycerine & Gelatin"
+ },
+ {
+   "ecode": "E161c",
+   "name": "Cryptoxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E161d",
+   "name": "Rubixanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E161e",
+   "name": "Violaxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E161f",
+   "name": "Rhodoxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E161g",
+   "name": "Canthaxanthin",
+   "description": "Color",
+   "status": "MUSBOOH",
+   "status_description": "Color Canthaxanthin is a carotene pigment of plants.Check Halal Status of Liquid chemicals and solvents"
+ },
+ {
+   "ecode": "E161h",
+   "name": "Zeaxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E161i",
+   "name": "Citranaxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E161j",
+   "name": "Astaxanthin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E162",
+   "name": "Beetroot Red / Betanin",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E163",
+   "name": "Anthocyanins",
+   "description": "Color",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E170",
+   "name": "Calcium Carbonate (Chalk)",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal if obtained from rock mineral and used as 100% dry powder or granular. Mushbooh if used as liquid,Check Halal Status of Solventl"
+ },
+ {
+   "ecode": "E171",
+   "name": "Titanium Dioxide",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E172",
+   "name": "Iron Oxides and Hydroxides",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E173",
+   "name": "Aluminium",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E174",
+   "name": "Silver",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E175",
+   "name": "Gold",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E180",
+   "name": "Pigment Rubine / Lithol Rubine BK",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal if used as 100% dry color. Mushbooh if used as liquid color, Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E181",
+   "name": "Tannin",
+   "description": "Color - Inorganic",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E200",
+   "name": "Sorbic Acid",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E201",
+   "name": "Soduim Sorbate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E202",
+   "name": "Potassium Sorbate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E203",
+   "name": "Calcium Sorbate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E210",
+   "name": "Benzoic Acid",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E211",
+   "name": "Sodium Benzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E212",
+   "name": "Potassium Benzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E213",
+   "name": "Calcium Benzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if calcium obtained from mineral, Mushbooh if it is obtained from bones."
+ },
+ {
+   "ecode": "E214",
+   "name": "Ethyl 4-hydroxybenzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E215",
+   "name": "Ethyl 4-hydroxybenzoate, Sodium Salt",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E216",
+   "name": "Propyl 4-hydroxybenzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E217",
+   "name": "Propyl 4-hydroxybenzoate, Sodium Salt",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E218",
+   "name": "Methyl 4-hydroxybenzoate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E219",
+   "name": "Methyl 4-hydroxybenzoate, Sodium Salt",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if used as 100% dry powder or granular.Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E220",
+   "name": "Sulphur Dioxide",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E221",
+   "name": "Sodium Sulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E222",
+   "name": "Sodium Hydrogen Sulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E223",
+   "name": "Sodium Metabisulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E224",
+   "name": "Potassium Metabisulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E225",
+   "name": "Sodium Sulfite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E226",
+   "name": "Calcium Sulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E227",
+   "name": "Calcium Hydrogen Sulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal, if calcium is obtained from mineral or chemicals. Mushbooh if it is obtained from bones."
+ },
+ {
+   "ecode": "E228",
+   "name": "Potassium Hydrogen Sulphite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E230",
+   "name": "Biphenyl / Diphenyl",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal,Check Halal Status of Solvent also"
+ },
+ {
+   "ecode": "E231",
+   "name": "2-Hydroxybiphenyl",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal,Check Halal Status of Solvent also"
+ },
+ {
+   "ecode": "E232",
+   "name": "Sodium Biphenyl-2-yl Oxide",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal,Check Halal Status of Solvent also"
+ },
+ {
+   "ecode": "E233",
+   "name": "2-(Thiazol-4-yl) Benzimidazole",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal,Check Halal Status of Solvent also"
+ },
+ {
+   "ecode": "E234",
+   "name": "Nisin",
+   "description": "Preservative - other",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E235",
+   "name": "Natamycin",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E236",
+   "name": "Formic Acid",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E237",
+   "name": "Sodium Formate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E238",
+   "name": "Calcium Formate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E239",
+   "name": "Hexamine",
+   "description": "Preservative - other",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E240",
+   "name": "Formaldehyde",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E242",
+   "name": "Dimethyl Dicarbonate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E249",
+   "name": "Potassium Nitrate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E250",
+   "name": "Sodium Nitrite",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E251",
+   "name": "Sodium Nitrate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E252",
+   "name": "Potassium Nitrate(Saltpetre)",
+   "description": "Preservative",
+   "status": "MUSBOOH",
+   "status_description": "Natural mineral; manufactured from waste animal or vegetable materia"
+ },
+ {
+   "ecode": "E260",
+   "name": "Acetic Acid",
+   "description": "Miscellaneous - Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E261",
+   "name": "Potassium Acetate",
+   "description": "Miscellaneous - Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "262",
+   "name": "Sodium Acetate",
+   "description": "Miscellaneous - Acids and their Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E263",
+   "name": "Calcium Acetate",
+   "description": "Miscellaneous - Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E264",
+   "name": "Ammonium Acetate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E270",
+   "name": "Lactic Acid",
+   "description": "Miscellaneous - Acids",
+   "status": "Halal",
+   "status_description": "Halal if obtained other than whey. In Several countries it is always from non dairy source."
+ },
+ {
+   "ecode": "E280",
+   "name": "Propionic Acid",
+   "description": "Preservative - Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E281",
+   "name": "Sodium Propionate",
+   "description": "Preservative- Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E282",
+   "name": "Calcium Propionate",
+   "description": "Preservative- Acids",
+   "status": "Halal",
+   "status_description": "Halal if calcium obtained from mineral, Mushbooh if it obtained from bones"
+ },
+ {
+   "ecode": "E283",
+   "name": "Potassium Propionate",
+   "description": "Preservative- Acids",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E284",
+   "name": "Boric Acid",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E285",
+   "name": "Sodium Tetraborate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E290",
+   "name": "Carbon Dioxide",
+   "description": "Miscellaneous",
+   "status": "MUSBOOH",
+   "status_description": "Fermentation (in production of alcohol); by-product of lime manufacture."
+ },
+ {
+   "ecode": "E296",
+   "name": "Malic Acid",
+   "description": "Miscellaneous - Acids and their Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E297",
+   "name": "Fumaric Acid",
+   "description": "Miscellaneous - Acids and their Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E300",
+   "name": "L-Ascorbic Acid (Vitamin C)",
+   "description": "Antioxidants- Vitamin C",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E301",
+   "name": "Sodium-L-Ascorbate",
+   "description": "Antioxidants- Vitamin C and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E302",
+   "name": "Calcium-L-Ascorbate",
+   "description": "Antioxidants- Vitamin C and derivatives",
+   "status": "Halal",
+   "status_description": "Halal, if the calcium source is from mineral, Mushbooh if it is from bones"
+ },
+ {
+   "ecode": "E303",
+   "name": "Potassium Ascorbate",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E304",
+   "name": "Ascorbyl Palmitate",
+   "description": "Antioxidants- Vitamin C and derivatives",
+   "status": "Halal",
+   "status_description": "Halal if saturated fatty acid Palmitic acid is obtained from plant.Check Halal Source of Fat"
+ },
+ {
+   "ecode": "E306",
+   "name": "Natural Extracts rich in Tocopherols",
+   "description": "Antioxidants- Vitamin E",
+   "status": "Halal",
+   "status_description": "Halal If Tocopherol is obtained from plant fat. Haraam if Tocopherol is obtained from pork fat"
+ },
+ {
+   "ecode": "E307",
+   "name": "Synthetic Alpha-Tocopherol",
+   "description": "Antioxidants- Vitamin E",
+   "status": "Halal",
+   "status_description": "Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method"
+ },
+ {
+   "ecode": "E308",
+   "name": "Synthetic Gamma-Tocopherol",
+   "description": "Antioxidants- Vitamin E",
+   "status": "Halal",
+   "status_description": "Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method"
+ },
+ {
+   "ecode": "E309",
+   "name": "Synthetic Delta-Tocopherol",
+   "description": "Antioxidants- Vitamin E",
+   "status": "Halal",
+   "status_description": "Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method"
+ },
+ {
+   "ecode": "E310",
+   "name": "Propyl Gallate",
+   "description": "Antioxidants- other",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E311",
+   "name": "Octyl Gallate",
+   "description": "Antioxidants- other",
+   "status": "Halal",
+   "status_description": "Halal if obtained from nutgalls or plant secretion"
+ },
+ {
+   "ecode": "E312",
+   "name": "Dodecyl Gallate",
+   "description": "Antioxidants- other",
+   "status": "Halal",
+   "status_description": "Halal if obtained from nutgalls or plant secretion. Check Halal Status of Solvent"
+ },
+ {
+   "ecode": "E315",
+   "name": "Erythorbic Acid",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E316",
+   "name": "Sodium Erythorbate",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E317",
+   "name": "Erythorbin Acid",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E318",
+   "name": "Sodium Erythorbin",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E319",
+   "name": "tert-Butylhydroxyquinone",
+   "description": "Antioxidants",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E320",
+   "name": "Butylated Hydroxyanisole (BHA)",
+   "description": "Antioxidants- other",
+   "status": "Halal",
+   "status_description": "Halal if only vegetable oil is used as a carrier. Check Halal Source of Carriers. It is not available as pure 100% chemical."
+ },
+ {
+   "ecode": "E321",
+   "name": "Butylated Hydroxytoluene (BHT)",
+   "description": "Antioxidants- other",
+   "status": "Halal",
+   "status_description": "Halal if only vegetable oil is used as a carrier. Check Halal Source of Carriers. It is not available as pure 100% chemical."
+ },
+ {
+   "ecode": "E322",
+   "name": "Lecithin",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal if obtained from soy fat or egg yolk in Several countries. It is Halal in Several Countries because it is always obtained from soy fat."
+ },
+ {
+   "ecode": "E325",
+   "name": "Sodium Lactate",
+   "description": "Miscellaneous - Salts of Lactic Acid",
+   "status": "Halal",
+   "status_description": "Halal if the lactic acid from non dairy source"
+ },
+ {
+   "ecode": "E326",
+   "name": "Potassium Lactate",
+   "description": "Miscellaneous - Salts of Lactic Acid",
+   "status": "Halal",
+   "status_description": "Halal if the lactic acid from non dairy source"
+ },
+ {
+   "ecode": "E327",
+   "name": "Calcium Lactate",
+   "description": "Miscellaneous - Salts of Lactic Acid",
+   "status": "Halal",
+   "status_description": "Halal if the lactic acid from non dairy source and calcium from mineral"
+ },
+ {
+   "ecode": "E329",
+   "name": "Magnesium Lactate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E330",
+   "name": "Citric Acid",
+   "description": "Miscellaneous - Citric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E331",
+   "name": "Sodium Citrates",
+   "description": "Miscellaneous - Citric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E331a",
+   "name": "Sodium Dihydrogen Citrate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E331b",
+   "name": "Disodium Citrate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E331c",
+   "name": "Trisodium Citrate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E332",
+   "name": "Potassium Citrates",
+   "description": "Miscellaneous - Citric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E333",
+   "name": "Calcium Citrates",
+   "description": "Miscellaneous - Citric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal if calcium source is not from bones"
+ },
+ {
+   "ecode": "E334",
+   "name": "Tartaric Acid",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E335",
+   "name": "Sodium Tartrates",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E336",
+   "name": "Potassium Tartrates (Cream of Tartar)",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E337",
+   "name": "Potassium Sodium Tartrates",
+   "description": "Miscellaneous - Tartaric Acid and its Salts",
+   "status": "MUSBOOH",
+   "status_description": "Halal, if it is not obtained from wine by-product, In Several countries it is Halal because it is obtained from un-fermented grapes."
+ },
+ {
+   "ecode": "E338",
+   "name": "Orthophosphoric Acid",
+   "description": "Miscellaneous - Phosphoric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E339a",
+   "name": "Sodium Phosphates",
+   "description": "Miscellaneous - Phosphoric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E339b",
+   "name": "diSodium hydrogen orthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E339c",
+   "name": "triSodium hydrogen orthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E340a",
+   "name": "Potassium Phosphates",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E340b",
+   "name": "DiPotassium hydrogen orthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E340c",
+   "name": "TriPotassium orthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E341a",
+   "name": "Calcium Phosphates",
+   "description": "Miscellaneous - Phosphoric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal if calcium from mineral source"
+ },
+ {
+   "ecode": "E341b",
+   "name": "Calcium Hydrogen Orthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E341c",
+   "name": "triCalcium diorthophosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E343",
+   "name": "Monomagnesium Phosphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E350",
+   "name": "Sodium Malate",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E351",
+   "name": "Potassium Malate",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E352",
+   "name": "Calcium Malate",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E353",
+   "name": "Metataric Acid",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "MUSBOOH",
+   "status_description": "from wine or synthetic. Check source of tartaric acid."
+ },
+ {
+   "ecode": "E354",
+   "name": "Calcium Tartrate",
+   "description": "Acidity regulator",
+   "status": "MUSBOOH",
+   "status_description": "from wine or synthetic. Check source of tartaric acid."
+ },
+ {
+   "ecode": "E355",
+   "name": "Adipic Acid",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E356",
+   "name": "Sodium Adipate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Chech Source :synthetic Chemical is OK"
+ },
+ {
+   "ecode": "E357",
+   "name": "Potassium Adipate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Chech Source :synthetic Chemical is OK"
+ },
+ {
+   "ecode": "E363",
+   "name": "Succinic Acid",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E365",
+   "name": "Sodium Fumarate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E366",
+   "name": "Potassium Fumarate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E367",
+   "name": "Calcium Fumarate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E370",
+   "name": "1,4-Heptonolactone",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E375",
+   "name": "Nicotinic Acid",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E380",
+   "name": "Triammonium Citrate",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E381",
+   "name": "Ammonium Ferric Citrate",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E385",
+   "name": "Calcium Disodium EDTA",
+   "description": "Miscellaneous - Salts of Malic Acid",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E400",
+   "name": "Alginic Acid",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E401",
+   "name": "Sodium Alginate",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E402",
+   "name": "Potassium Alginate",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E403",
+   "name": "Ammonium Alginate",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E404",
+   "name": "Calcium Alginate",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E405",
+   "name": "Propane-1,2-Diol Alginate",
+   "description": "Emulsifiers and Stabilizers - Alginates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E406",
+   "name": "Agar",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E407",
+   "name": "Carrageenan",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E407a",
+   "name": "Processed Eucheuma Seaweed",
+   "description": "Emulsifiers and Stabilizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E410",
+   "name": "Locust Bean Gum (Carob Gum)",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E412",
+   "name": "Guar Gum",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E413",
+   "name": "Tragacanth",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal."
+ },
+ {
+   "ecode": "E414",
+   "name": "Gum Acacia (Gum Arabic)",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E415",
+   "name": "Xanthan Gum",
+   "description": "Emulsifiers and Stabilizers - other plant gums",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E416",
+   "name": "Karaya Gum",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E417",
+   "name": "Tara Gum",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E418",
+   "name": "Gellan gum",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E420",
+   "name": "Sorbitol",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E420ii",
+   "name": "Sorbitol Syrup",
+   "description": "Emulsifiers and Stabilizers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E421",
+   "name": "Mannitol",
+   "description": "Sugar Alcohols",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E422",
+   "name": "Glycerol",
+   "description": "Sugar Alcohols",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, called Glycerin In Several countries , Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E425",
+   "name": "Konjac gum",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E426",
+   "name": "Soyabean Hemicellulose",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E430",
+   "name": "Polyoxyethane (8) Stearate",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check source Haram if Pork"
+ },
+ {
+   "ecode": "E431",
+   "name": "Polyoxyethane (40) Stearate",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Fatty Acid derivatives. Veg Sign indicates that only vegetable fat is used as a source."
+ },
+ {
+   "ecode": "E432",
+   "name": "Polyoxyethane (20) Sorbitan / Polysorbate 20",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "Halal",
+   "status_description": "Fatty Acid derivatives. Veg Sign indicates that only vegetable fat is used as a source."
+ },
+ {
+   "ecode": "E433",
+   "name": "Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E434",
+   "name": "Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "Halal",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E435",
+   "name": "Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E436",
+   "name": "Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65",
+   "description": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E440a",
+   "name": "Pectin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E440b",
+   "name": "Amidated Pectin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Treatment of pectin with ammonia. Check that source of pectin is not from cider making."
+ },
+ {
+   "ecode": "E441",
+   "name": "Gelatin",
+   "description": "Gelling Agent",
+   "status": "MUSBOOH",
+   "status_description": "From animal skin, tendons, ligaments, & bone. Check For Pork and Other Animal Fat"
+ },
+ {
+   "ecode": "E442",
+   "name": "Emulsifier YN",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "It could be obtained either vegetable fat or animal fat. Veg Sign indicates that only vegetable fat is used as a source.r oil."
+ },
+ {
+   "ecode": "E444",
+   "name": "Sucrose Acetate Isobutyrate",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E445",
+   "name": "Glycerol Esters of Wood Rosin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine"
+ },
+ {
+   "ecode": "E450a,b,c",
+   "name": "Sodium and Potassium Phosphates and Polyphosphates",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E450b",
+   "name": "pentaSodium Triphosphate",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E450c",
+   "name": "Sodium Polyphosphates",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E450v",
+   "name": "Tetrapotassium Pyrophosphate",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E451",
+   "name": "Tetrapotassium Pyrophosphate",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Check the source of Phosphate in Several Countries is also obtained from animal bones. Veg Sign indicates that only vegetable fat is used as a source.r oil. In Several countries it is obtained from minerals and it is Halal."
+ },
+ {
+   "ecode": "E452",
+   "name": "Triphosphates",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Check the source of Phosphate in Several Countries is also obtained from animal bones. Veg Sign indicates that only vegetable fat is used as a source.r oil. In Several countries it is obtained from minerals and it is Halal."
+ },
+ {
+   "ecode": "E459",
+   "name": "Beta-cyclodextrin",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E460",
+   "name": "Microcrystalline / Powdered Cellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E461",
+   "name": "Methylcellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E462",
+   "name": "Ethyl Cellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E463",
+   "name": "Hydroxypropylcellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E464",
+   "name": "Hydroxypropyl-Methylcellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E465",
+   "name": "Ethylmethylcellulose",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E466",
+   "name": "Carboxymethylcellulose, Sodium Salt",
+   "description": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E467",
+   "name": "Ethylhydroxyethyl Cellulose",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E468",
+   "name": "Crosslinked Sodium Carboxymethyl Cellulose",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E469",
+   "name": "Enzymetically Hydrolysed Carboxymethyl Cellulose",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E470",
+   "name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E470b",
+   "name": "Magnesium Salts of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E471",
+   "name": "Mono-and Diglycerides of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E472",
+   "name": "Various Esters of Mono-and Diglycerides of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E472b",
+   "name": "Lactoglycerides",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E472c",
+   "name": "Citroglycerides",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E472d",
+   "name": "Tartaric acid glycerol esters",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+ },
+ {
+   "ecode": "E472e",
+   "name": "Acetyltartaric acid glycerol esters",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Fat if Soy or Plant Fat then halal if pork then Haraam"
+ },
+ {
+   "ecode": "E472f",
+   "name": "Mixed Acetic & Tartaric Acid Esters of Mono & Digl",
+   "description": "Emulsifiers and Stabilizers - Pectin and derivatives",
+   "status": "MUSBOOH",
+   "status_description": "Check sourse of tartaric acid, glycerine, & fatty acids."
+ },
+ {
+   "ecode": "E473",
+   "name": "Sucrose Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E474",
+   "name": "Sucroglycerides",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E475",
+   "name": "Polyglycerol Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E476",
+   "name": "Polyglycerol Esters of Polycondensed Esters of Caster Oil",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E477",
+   "name": "Propane-1,2-Diol Esters of Fatty Acids",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "478",
+   "name": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E479b",
+   "name": "Thermally oxidized Soya Bean Oil interacted with M",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Check source of fatty acids & glycerine"
+ },
+ {
+   "ecode": "E481",
+   "name": "Sodium Stearoyl-2-Lactylate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E482",
+   "name": "Calcium Stearoyl-2-Lactylate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E483",
+   "name": "Stearyl Tartrate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E491",
+   "name": "Sorbitan Monostearate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E492",
+   "name": "Sorbitan Tristearate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E493",
+   "name": "Sorbitan Monolaurate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "Halal",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E494",
+   "name": "Sorbitan Mono-oleate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E495",
+   "name": "Sorbitan Monopalmitate",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "Halal",
+   "status_description": "Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+ },
+ {
+   "ecode": "E496",
+   "name": "Sorbitan",
+   "description": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+   "status": "MUSBOOH",
+   "status_description": "Salts or Esters of Fatty Acids. Suitable for vegetarian label indicates that only vegetable fat is used as a source"
+ },
+ {
+   "ecode": "E500",
+   "name": "Sodium Carbonate / Sodium Bicarbonate",
+   "description": "Miscellaneous - Acids and Salts: Carbonates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E501",
+   "name": "Potassium Carbonate",
+   "description": "Miscellaneous - Acids and Salts: Carbonates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E503",
+   "name": "Ammonium Carbonate",
+   "description": "Miscellaneous - Acids and Salts: Carbonates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E504",
+   "name": "Magnesium Carbonate",
+   "description": "Miscellaneous - Acids and Salts: Carbonates",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E507",
+   "name": "Hydrochloric Acid",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E508",
+   "name": "Potassium Chloride",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E509",
+   "name": "Calcium Chloride",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E510",
+   "name": "Ammonium Chloride",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E511",
+   "name": "Magnesium Chloride",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E512",
+   "name": "Stannous Chloride",
+   "description": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E513",
+   "name": "Sulphuric Acid",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E514",
+   "name": "Sodium Sulphate",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E515",
+   "name": "Potassium Sulphate",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E516",
+   "name": "Calcium Sulphate",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E517",
+   "name": "Ammonium Sulphate",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E518",
+   "name": "Magnesium Sulphate",
+   "description": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E519",
+   "name": "Copper (II) Sulphate",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E520",
+   "name": "Aluminium Sulphate",
+   "description": "firming agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E520",
+   "name": "Aluminium Sodium Sulphate",
+   "description": "firming agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E522",
+   "name": "Aluminium Potassium Sulphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E523",
+   "name": "Aluminium Ammonium Sulphate",
+   "description": "Acidity regulator",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E524",
+   "name": "Sodium Hydroxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E525",
+   "name": "Potassium Hydroxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E526",
+   "name": "Calcium Hydroxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E527",
+   "name": "Ammonium Hydroxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E528",
+   "name": "Magnesium Hydroxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E529",
+   "name": "Calcium Oxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E530",
+   "name": "Magnesium Oxide",
+   "description": "Miscellaneous - Alkalis",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E535",
+   "name": "Sodium Ferrocyanide",
+   "description": "Miscellaneous - other Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E536",
+   "name": "Potassium Ferrocyanide",
+   "description": "Miscellaneous - other Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E538",
+   "name": "Calcium Ferrocyanide",
+   "description": "Calcium Ferrocyanide",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E540",
+   "name": "Dicalcium Ferrocyanide",
+   "description": "Miscellaneous - other Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E541",
+   "name": "Sodium Aluminium Phosphate",
+   "description": "Miscellaneous - other Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E542",
+   "name": "Edible Bone Phosphate (Bone-Meal)",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "MUSBOOH",
+   "status_description": "Halal if the bones from zabiha slaughtered beef."
+ },
+ {
+   "ecode": "E543",
+   "name": "Calcium Sodium Polyphosphate",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E544",
+   "name": "Calcium Polyphosphates",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "Halal",
+   "status_description": "Mushbooh, Halal if it is from minerals, Haraam if it is from pig bones"
+ },
+ {
+   "ecode": "E545",
+   "name": "Ammonium Polyphosphates",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "Halal",
+   "status_description": "Mushbooh, Halal if it is from minerals, Haraam if it is from pig bones"
+ },
+ {
+   "ecode": "E550",
+   "name": "Sodium Silicate",
+   "description": "Miscellaneous - Anti-Caking Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E551",
+   "name": "Silicon Dioxide (Silica Salt)",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E552",
+   "name": "Calcium Silicate",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E553a",
+   "name": "Magnesium Silicate",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E553",
+   "name": "Magnesium Silicate / Magnesium Trisilicate (Talc)",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E554",
+   "name": "Aluminium Sodium Silicate",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E555",
+   "name": "Pottasium Aluminium Silicate",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E556",
+   "name": "Aluminium Calcium Silicate",
+   "description": "Miscellaneous - Silicon Salts",
+   "status": "Halal",
+   "status_description": "Mushbooh, Halal if calcium from mineral rocks, Haraam if calcium from pig bones"
+ },
+ {
+   "ecode": "E558",
+   "name": "Bentonite",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E559",
+   "name": "Kaolin (Aluminium Silicate)",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E570",
+   "name": "Stearic Acid",
+   "description": "Miscellaneous - other compounds",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh,Check Source of Fat if Soy or Plamtl Fat then halal if pork then Haraam"
+ },
+ {
+   "ecode": "E572",
+   "name": "Magnesium Stearate",
+   "description": "Miscellaneous - other compounds",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh,Check Source of Fat if Soy or Plamtl Fat then halal if pork then Haraam"
+ },
+ {
+   "ecode": "E574",
+   "name": "Gluconic Acid",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E575",
+   "name": "Glucono Delta-Lactone",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E576",
+   "name": "Sodium Gluconate",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E577",
+   "name": "Potassium Gluconate",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E578",
+   "name": "Calcium Gluconate",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E579",
+   "name": "Ferrous Gluconate",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E585",
+   "name": "Ferrous Lactate",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E586",
+   "name": "4-Hexylresorcinol",
+   "description": "Miscellaneous - other compounds",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E620",
+   "name": "L-Glutamic Acid",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal if it is from plant protein, Haraam if it is from pig protein"
+ },
+ {
+   "ecode": "E621",
+   "name": "Monosodium Glutamate (MSG)",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+ },
+ {
+   "ecode": "E622",
+   "name": "Monopotassium Glutamate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+ },
+ {
+   "ecode": "E623",
+   "name": "Calcium Glutamate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+ },
+ {
+   "ecode": "E624",
+   "name": "Monoammonium Glutamate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E625",
+   "name": "Magnesium Diglutamate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E625",
+   "name": "Guanylic acid",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E627",
+   "name": "Sodium Guanylate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal if it is obtained from sardines or baker's yeast extract. Mushbooh if it is made from brewer yeast extract, a by-product of beer making"
+ },
+ {
+   "ecode": "E628",
+   "name": "Dipotassium Guanylate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E629",
+   "name": "Calcium Guanylate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E630",
+   "name": "Inosinic Acid",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Inosinic acid is obtained from it then it is Halal otherwise it is not Halal"
+ },
+ {
+   "ecode": "E631",
+   "name": "Sodium 5-Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "In Several countries if it is obtained from non alcoholic fermantation by bacteria on sugar or from sugarcane itself then it is Halal but if it is obtained from Torula yeast grown on alcohol then disodium Inosinate is not Halal."
+ },
+ {
+   "ecode": "E632",
+   "name": "Sodium 5-Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "A flavor enhancer, IMP or inosine monophosphate is a nucleotide commercially obtained from Torula Yeast. Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Inosinic acid is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E633",
+   "name": "Calcium Inosinate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Sodium Inosinate is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E634",
+   "name": "Calcium 5-ribonucleotides",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Torula yeast is grown on alcohol In Several countries to obtain Nucleotide which is mostly used in infant baby formula. In Several countries if Torula yeast grown on sugar cane and Calcium5-Ribonucleotide is obtained from it then it is Halal otherwise it is not Halal."
+ },
+ {
+   "ecode": "E635",
+   "name": "Sodium5-Ribonucleotide",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Mushbooh, it is a combination of E N 627 and EN 631"
+ },
+ {
+   "ecode": "E636",
+   "name": "Maltol",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E637",
+   "name": "Ethyl Maltol",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E640",
+   "name": "Glycine & its Sodium Salt",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Glycin how is obtained"
+ },
+ {
+   "ecode": "E650",
+   "name": "Zinc Acetate",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E900",
+   "name": "Dimethylpolysiloxane",
+   "description": "Miscellaneous - Flavour Enhancers",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E901",
+   "name": "Beeswax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E902",
+   "name": "Candelilla Wax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E903",
+   "name": "Carnauba Wax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E904",
+   "name": "Shellac",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal if no if it is not treated with alcohol, two types of shellac is available, the Halal type is not treated with alcohol but other type is treated with alcohol. A gummy secretion material from the pores of a insect Coccus lacca that feed on Palas trees in India and South Asia. This gummy material is called Lac. Manufactured by Indian companies."
+ },
+ {
+   "ecode": "E905",
+   "name": "Mineral Hydrocarbons",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E905a",
+   "name": "Mineral Oil",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E906",
+   "name": "Gum Benzoic",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E907",
+   "name": "Refined Microcrystalline Wax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Mushbooh, Halal if obtained from plant fat wax. Haraam if it is obtained from pork fat wax"
+ },
+ {
+   "ecode": "E908",
+   "name": "Rice Bran Wax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E910",
+   "name": "L-Cysteine",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: Human hair; feathers; or synthetic"
+ },
+ {
+   "ecode": "E912",
+   "name": "Montanic acid esters",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E913",
+   "name": "Lanolin",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E914",
+   "name": "Oxidised Polyethylene Wax",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E915",
+   "name": "Esters of Colophony",
+   "description": "Miscellaneous - Glazing Agents",
+   "status": "MUSBOOH",
+   "status_description": "Check source of these fats"
+ },
+ {
+   "ecode": "E920",
+   "name": "L-Cysteine Hydrochloride",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: animal or human hair; chicken feathers; or synthetic."
+ },
+ {
+   "ecode": "E921",
+   "name": "L-Cystine",
+   "description": "Improving agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source: Human hair; feathers; or synthetic"
+ },
+ {
+   "ecode": "E922",
+   "name": "Potassium Persulphate",
+   "description": "Improving agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E923",
+   "name": "Ammonium Persulphate",
+   "description": "Improving agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E924",
+   "name": "Potassium Bromate",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E925",
+   "name": "Chlorine",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E926",
+   "name": "Chlorine Dioxide",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E927",
+   "name": "Azodicarbonamide",
+   "description": "Miscellaneous - Compounds used to treat Flour",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E927b",
+   "name": "Carbamide",
+   "description": "Improving agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E928",
+   "name": "Benzoyl Peroxide",
+   "description": "Bleach",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E930",
+   "name": "Calcium Peroxide",
+   "description": "Bleach",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E938",
+   "name": "Argon",
+   "description": "Packing gas",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E939",
+   "name": "Helium",
+   "description": "Packing gas",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E940",
+   "name": "Dichlorodifluoromethane",
+   "description": "Packing gas",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E941",
+   "name": "Nitrogen",
+   "description": "Propellant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E942",
+   "name": "Nitrous Oxide",
+   "description": "Propellant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E943a",
+   "name": "Butane",
+   "description": "Propellant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E943b",
+   "name": "Isobutane",
+   "description": "Propellant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E944",
+   "name": "Propane",
+   "description": "Propellant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E948",
+   "name": "Oxygen",
+   "description": "Packing gas",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E949",
+   "name": "Hydrogen",
+   "description": "Packing gas",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E950",
+   "name": "Acesulfame K",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E951",
+   "name": "Aspartame",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E952(i)",
+   "name": "Cylamic Acid",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E952(iiii)",
+   "name": "Calcium Cyclamate",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E953",
+   "name": "Isomalt",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E954",
+   "name": "Saccharin and its Salts",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E955",
+   "name": "Sucralose",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E957",
+   "name": "Thaumatin",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E959",
+   "name": "Neohesperidine DihydroChalcone",
+   "description": "Flavour Enhancer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E962",
+   "name": "Salt of Aspartame-Acesulfame",
+   "description": "",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E965",
+   "name": "Maltitol",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E965{ii}",
+   "name": "Maltitol Syrup",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E966",
+   "name": "Lactitol",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E967",
+   "name": "Xylitol",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E968",
+   "name": "Erythritol",
+   "description": "Sweetner",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E999",
+   "name": "Quillaia Extract",
+   "description": "Foaming Agent",
+   "status": "Halal",
+   "status_description": "Check Source Soap bark tree but extract is extracted with alcohol."
+ },
+ {
+   "ecode": "E1000",
+   "name": "Cholic Acid",
+   "description": "Emulsifier",
+   "status": "MUSBOOH",
+   "status_description": "Musbooh"
+ },
+ {
+   "ecode": "E1100",
+   "name": "Amylase",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1101",
+   "name": "Protease",
+   "description": "Stablizer",
+   "status": "MUSBOOH",
+   "status_description": "Can by obtained from animal or plant. A Green Dot on the package of food product in India indicate it is from plant"
+ },
+ {
+   "ecode": "E1103",
+   "name": "Invertase",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1105",
+   "name": "Lysozyme",
+   "description": "Preservative",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1200",
+   "name": "Polydextrose",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1201",
+   "name": "Polyvinylpyrrolidone",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1202",
+   "name": "Polyvinylpolypyrrolidone",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1203",
+   "name": "Monostarch Phosphate",
+   "description": "Stablizer",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1400",
+   "name": "Dextrin",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1401",
+   "name": "Modified Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1402",
+   "name": "Alkaline Modified Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1403",
+   "name": "Bleached Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1404",
+   "name": "Oxidised Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1405",
+   "name": "Enzyme Treated Starch",
+   "description": "Starch",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1410",
+   "name": "Phosphate",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1412",
+   "name": "Distarch Phosphate",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check Source of Phosphate in Several countries is also obtained from animal bones. Veg Sign on food package indicates that it is obtained from from mineral.\""
+ },
+ {
+   "ecode": "E1413",
+   "name": "Phoshated Distarch Phosphate",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1414",
+   "name": "Acetylated Distarch Phosphate",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1420",
+   "name": "Acetylated Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1421",
+   "name": "Acetylated Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1422",
+   "name": "Acetylated Distarch Adipate",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1423",
+   "name": "Acetylated Distarch Glycerol",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1430",
+   "name": "Distarch Glycerine",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1440",
+   "name": "Hydroxypropyl Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1441",
+   "name": "Hydroxy Propyl Distarch Glycerine",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1442",
+   "name": "Hydroxypropyl Distarch Phosphate",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1443",
+   "name": "Hydroxy Propyl Starch Glycerol",
+   "description": "Thickening Agent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of glycerine."
+ },
+ {
+   "ecode": "E1450",
+   "name": "Starch Sodium Octenyl Succinate",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1451",
+   "name": "Acetylated Oxidised Starch",
+   "description": "Thickening Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1505",
+   "name": "Triethyl Citrate",
+   "description": "Foaming Agent",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1510",
+   "name": "Ethanol",
+   "description": "Additional Chemical",
+   "status": "MUSBOOH",
+   "status_description": "Chemical synthesis. Synthetic product is accepted as a carrier in quantities less than 0.5%"
+ },
+ {
+   "ecode": "E1517",
+   "name": "Diacetate",
+   "description": "Flavour Solvent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of Glyceryl"
+ },
+ {
+   "ecode": "E1518",
+   "name": "Glyceryl Triacetate",
+   "description": "Flavour Solvent",
+   "status": "MUSBOOH",
+   "status_description": "Check source of Glyceryl"
+ },
+ {
+   "ecode": "E1519",
+   "name": "Benzyl Alcohol",
+   "description": "Hemuctant",
+   "status": "Halal",
+   "status_description": "Halal"
+ },
+ {
+   "ecode": "E1520",
+   "name": "Propylene Glycol",
+   "description": "Hemuctant",
+   "status": "Halal",
+   "status_description": "Halal"
+ }
+]
