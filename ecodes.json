@@ -72,6 +72,12 @@
     "status": "Halal if use as is as a 100% syntheticcolor but if pork glycerin is added as asolvent then it is Haraam"
   },
   {
+    "number": "E140", 
+    "name": "Chlorophyll",
+    "description": "Color",
+    "status": "Halal if use 100% powder or Halal if water or vegetable oil was used as a solvent"
+  },
+  {
     "number": "", 
     "name": "",
     "description": "",
